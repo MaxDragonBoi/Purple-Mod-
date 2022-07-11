@@ -1,4 +1,4 @@
-# MinecraftMod
+# Purple And Green Mod
 This a mod with purple stuff 
 
 creator: 𝕸𝖆𝖝𝖙𝖍𝖊𝖗𝖔𝖎𝖙1911#5094
